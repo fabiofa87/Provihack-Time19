@@ -1,10 +1,10 @@
 import React from "react";
 import { HeaderContainer } from "./style";
 import Headroom from "react-headroom";
+import _Hack_CIStema_ from "../../assets/_Hack_ CIStema.png";
+import { Button } from "@mui/material";
 
 const Header = () => {
-  const headerText = "<Hack> CIStema";
-
   return (
     <Headroom
       style={{
@@ -12,9 +12,18 @@ const Header = () => {
       }}
     >
       <HeaderContainer>
-        <h1>{headerText}</h1>
-        <button>Teste1</button>
-        <button>Teste2</button>
+        <h1>
+          <img src={_Hack_CIStema_} alt="" />
+        </h1>
+        <Button variant="contained" size="small">
+          Mentorias
+        </Button>
+        <Button variant="contained" size="small">
+          Cursos
+        </Button>
+        <Button variant="contained" size="small">
+          Acessoria Jurídica
+        </Button>
       </HeaderContainer>
     </Headroom>
   );

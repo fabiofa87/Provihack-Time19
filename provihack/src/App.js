@@ -13,6 +13,7 @@ const AppContainer = styled.div`
   height: 100%;
   width: 100vw;
   flex-wrap: wrap;
+  box-sizing: border-box;
 `;
 
 function App() {
