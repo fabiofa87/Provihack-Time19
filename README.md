@@ -2,8 +2,6 @@
 
 ## EQUIPE: hack_dolores
 
-<br />
-
 ## PROJETO
 
 ### <Hack\> CIStema
@@ -15,8 +13,6 @@
 ▪ Cursos
 <br />
 ▪ Assessoria Jurídica
-
-<br />
 
 ### Funcionalidades gerais:
 
