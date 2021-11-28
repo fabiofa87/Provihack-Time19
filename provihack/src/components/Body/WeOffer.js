@@ -9,7 +9,7 @@ const WeOffer = () => {
         <img src={mentoria1} alt="mentoria logo" />
       </MentoriaLogo>
       <div>
-        <p>Acompanhamos seu ingresso e desenvolvimento profissional.</p>
+        <h3>Acompanhamos seu ingresso e desenvolvimento profissional.</h3>
       </div>
     </WeOfferContainer>
   );
