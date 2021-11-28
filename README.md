@@ -1,11 +1,17 @@
 # ProviHack - Time19
 
-## <Hack\> CIStema
+## EQUIPE: hack_dolores
+
+## PROJETO
+
+### <Hack\> CIStema
 
 ➡ O Hack CIStema fornece o conjunto de soluções holísticas para pessoas Trans ingressarem no mercado de trabalho de forma segura, acompanhada e direcionada.
 
 ▪ Mentorias
+<br />
 ▪ Cursos
+<br />
 ▪ Assessoria Jurídica
 
 ### Funcionalidades gerais:
@@ -41,3 +47,40 @@
     - Criar/Promover evento;
     - Promover vagas;
     - Visualizar feedbacks recebidos (por mentorado e mentor);
+
+<br />
+
+## TECNOLOGIAS QUE PODEM SER UTILIZADAS:
+
+### BACKEND
+
+    - Node.js
+    - .NET Core
+
+### FRONT
+
+    - React
+    - Angular
+
+### MOBILE
+
+    - React Native
+    - Ionic
+
+### BANCO DE DADOS
+
+    - Postgresql
+    - MySQL
+
+### HOSPEDAGEM
+
+    - Heroku
+    - Azure
+
+<br />
+
+Made by Bianca Andrade - [LinkedIn](https://www.linkedin.com/in/bianca-andrade-handan/)
+<br/>
+Made by Fabio Faria - [LinkedIn](https://www.linkedin.com/in/fabiofa87/)
+<br/>
+Made by Thainá Abrantes - [LinkedIn](https://www.linkedin.com/in/thain%C3%A1-abrantes-5b9b59224/)
