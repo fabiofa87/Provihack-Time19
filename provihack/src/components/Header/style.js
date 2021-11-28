@@ -9,6 +9,7 @@ export const HeaderContainer = styled.header`
   background-color: #9fddff;
   color: #eb5371;
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
   img {
     width: 20%;
     height: auto;

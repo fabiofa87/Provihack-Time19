@@ -22,7 +22,7 @@ const Header = () => {
           Cursos
         </Button>
         <Button variant="contained" size="small">
-          Acessoria Jurídica
+          Assessoria Jurídica
         </Button>
       </HeaderContainer>
     </Headroom>
