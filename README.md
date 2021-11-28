@@ -3,7 +3,6 @@
 ## EQUIPE: hack_dolores
 
 <br />
-<br />
 
 ## PROJETO
 
@@ -17,7 +16,6 @@
 <br />
 ▪ Assessoria Jurídica
 
-<br />
 <br />
 
 ### Funcionalidades gerais:
