@@ -9,7 +9,7 @@ const Cursos = () => {
         <img src={cursos} alt="cursos logo" />
       </MentoriaLogo>
       <div>
-        <h3>Tudo para você alcançar seu pertencimento</h3>
+        <h3>Tudo para você alcançar seu pertencimento.</h3>
       </div>
     </WeOfferContainer>
   );
