@@ -5,7 +5,7 @@
 ## PROJETO
 
 ### <Hack\> CIStema
-happy-friction.surge.sh
+http://happy-friction.surge.sh
 
 ➡ O Hack CIStema fornece o conjunto de soluções holísticas para pessoas Trans ingressarem no mercado de trabalho de forma segura, acompanhada e direcionada.
 
