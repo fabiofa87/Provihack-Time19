@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# ProviHack - Time19
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## EQUIPE: hack_dolores
 
-## Available Scripts
+## PROJETO
 
-In the project directory, you can run:
+### <Hack\> CIStema
+happy-friction.surge.sh
 
-### `npm start`
+➡ O Hack CIStema fornece o conjunto de soluções holísticas para pessoas Trans ingressarem no mercado de trabalho de forma segura, acompanhada e direcionada.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+▪ Mentorias
+<br />
+▪ Cursos
+<br />
+▪ Assessoria Jurídica
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Funcionalidades gerais:
 
-### `npm test`
+    - Cadastrar;
+    - Agendar mentoria
+    - Agendar evento;
+    - Feedbacks;
+    - Agendar Assessoria Jurídica;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Funcionalidades por pessoas mentorada:
 
-### `npm run build`
+    - Cadastrar informações;
+    - Buscar mentor;
+    - Agendar mentoria;
+    - Feedbacks mentores;
+    - Agendar Assessoria Jurídica;
+    - Visualizar feedbacks recebidos (por empresa e mentor);
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Funcionalidades por pessoa mentora:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    - Cadastrar informações;
+    - Agendar palestras;
+    - Buscar mentorado;
+    - Agendar mentoria;
+    - Feedbacks mentorados;
+    - Visualizar feedbacks recebidos (por empresa e mentorado);
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Funcionalidades empresas/parceiras:
 
-### `npm run eject`
+    - Cadastrar informações;
+    - Buscar profissionais (mentores ou mentorados);
+    - Criar/Promover evento;
+    - Promover vagas;
+    - Visualizar feedbacks recebidos (por mentorado e mentor);
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<br />
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## TECNOLOGIAS QUE PODEM SER UTILIZADAS:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### BACKEND
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    - Node.js
+    - .NET Core
 
-## Learn More
+### FRONT
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    - React
+    - Angular
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### MOBILE
 
-### Code Splitting
+    - React Native
+    - Ionic
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### BANCO DE DADOS
 
-### Analyzing the Bundle Size
+    - Postgresql
+    - MySQL
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### HOSPEDAGEM
 
-### Making a Progressive Web App
+    - Heroku
+    - Azure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br />
 
-### Advanced Configuration
+Made by Bianca Andrade - [LinkedIn](https://www.linkedin.com/in/bianca-andrade-handan/)
+<br/>
+Made by Fabio Faria - [LinkedIn](https://www.linkedin.com/in/fabiofa87/)
+<br/>
+Made by Thainá Abrantes - [LinkedIn](https://www.linkedin.com/in/thain%C3%A1-abrantes-5b9b59224/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![hackcis](https://user-images.githubusercontent.com/65990521/143790810-6941cb02-14b0-4b65-9266-c88762197e91.png)
+<br />
+![hackcisresponsivo](https://user-images.githubusercontent.com/65990521/143790679-c4d1e789-ced9-48fa-b409-4c3ea1c15f03.png)
+<br />
+![qrcode](https://user-images.githubusercontent.com/65990521/143790828-4ec14048-c3cd-436a-aaa9-de13156f5036.png)
