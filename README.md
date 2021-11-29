@@ -87,7 +87,7 @@ Made by Fabio Faria - [LinkedIn](https://www.linkedin.com/in/fabiofa87/)
 Made by Thainá Abrantes - [LinkedIn](https://www.linkedin.com/in/thain%C3%A1-abrantes-5b9b59224/)
 
 
-![hackcis](https://user-images.githubusercontent.com/65990521/143790810-6941cb02-14b0-4b65-9266-c88762197e91.png, width=300)
+![hackcis](https://user-images.githubusercontent.com/65990521/143790810-6941cb02-14b0-4b65-9266-c88762197e91.png)
 <br />
 ![hackcisresponsivo](https://user-images.githubusercontent.com/65990521/143790679-c4d1e789-ced9-48fa-b409-4c3ea1c15f03.png)
 <br />
